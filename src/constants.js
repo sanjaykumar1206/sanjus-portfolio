@@ -14,7 +14,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import django from './assets/tech_logo/django.png';
 import powerbi from './assets/tech_logo/powerbi.png';
 import tableau from './assets/tech_logo/tableau.png';
-import excel from './assets/tech_logo/excel.png'
+import excel from './assets/tech_logo/excel.png';
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
