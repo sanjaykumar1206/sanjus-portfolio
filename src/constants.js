@@ -13,7 +13,8 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import django from './assets/tech_logo/django.png';
 import powerbi from './assets/tech_logo/powerbi.png';
-import tableau from './assets/tech_logo/tableau.png'
+import tableau from './assets/tech_logo/tableau.png';
+import excel from './assets/tech_logo/excel.png'
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
@@ -71,7 +72,8 @@ export const SkillsInfo = [
       { name: 'VS Code', logo: vscodeLogo },
       { name: 'Vercel', logo: vercelLogo },
       { name: 'Power Bi', logo: powerbi},
-      { name: 'Tableau', logo: tableau}
+      { name: 'Tableau', logo: tableau},
+      { name: 'Excel', logo: excel}
     ],
   },
 ];
