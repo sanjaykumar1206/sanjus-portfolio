@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗https://sanjus-portfolio.vercel.app/
 
 ## 🛠️ Tech Stack
 
